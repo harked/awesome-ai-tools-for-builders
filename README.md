@@ -117,7 +117,7 @@ If you have an awesome AI tool that’s indie-hacker-friendly:
 2. Add your tool in the right category (keep it sorted alphabetically)
 3. Submit a pull request
 
-Or open an [issue](https://github.com/yourusername/awesome-ai-tools-indie-hackers/issues) to suggest additions or improvements.
+Or open an [issue](https://github.com/harked/awesome-ai-tools-for-builders/issues) to suggest additions or improvements.
 
 ---
 
