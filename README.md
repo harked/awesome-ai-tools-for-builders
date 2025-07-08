@@ -1,6 +1,6 @@
-# 🧠 Awesome AI Tools for Indie Hackers 🚀
+# 🧠 Awesome Tools for 'AI Native' Indie Makers 🚀
 
-> A curated list of **powerful AI tools, APIs, libraries, and products** that help indie hackers build, launch, and grow faster.
+> A curated list of **powerful AI tools, APIs, libraries, and products** that help indie makers plan, build, launch, grow, monetize, and automate faster.
 
 Inspired by the legendary [awesome](https://github.com/sindresorhus/awesome) list by @sindresorhus.
 
@@ -8,11 +8,11 @@ Inspired by the legendary [awesome](https://github.com/sindresorhus/awesome) lis
 
 ## 🌟 Why?
 
-AI is changing the game. As an indie hacker, you can leverage cutting-edge AI tools to:
+AI is changing the game. As an indie maker, you can leverage cutting-edge AI tools to:
 
-- 🚀 Build products faster  
-- 🧩 Automate tedious work  
-- 📈 Grow your audience & revenue  
+- 🚀 Build products faster
+- 🧩 Automate tedious work
+- 📈 Grow your audience & revenue
 - 💡 Prototype innovative ideas with fewer resources
 
 This list helps you discover the best tools & resources without wasting hours searching.
@@ -21,6 +21,7 @@ This list helps you discover the best tools & resources without wasting hours se
 
 ## 📚 Table of Contents
 
+- [🛠 AI to build apps](#-ai-to-build-apps)
 - [🤖 AI APIs & Platforms](#-ai-apis--platforms)
 - [✍️ Content & Copywriting](#-content--copywriting)
 - [🎨 Images & Video](#-images--video)
@@ -31,6 +32,13 @@ This list helps you discover the best tools & resources without wasting hours se
 - [📚 Learning & Resources](#-learning--resources)
 - [💬 Community & Inspiration](#-community--inspiration)
 - [⚡ Contributing](#-contributing)
+
+---
+
+## 🛠 AI to build apps
+
+- [Bubble AI](https://bubble.io/) - Build AI SaaS without coding
+- [Adaptive AI](https://adaptive.ai/) - Build AI-powered tools that think and work together
 
 ---
 
@@ -71,7 +79,6 @@ This list helps you discover the best tools & resources without wasting hours se
 
 - [Zapier](https://zapier.com/) - Automate workflows using AI triggers
 - [Make](https://www.make.com/) - Visual automation builder
-- [Bubble AI](https://bubble.io/) - Build AI SaaS without coding
 
 ---
 
