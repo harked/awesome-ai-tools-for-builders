@@ -40,6 +40,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Bubble AI](https://bubble.io/) - Build AI SaaS without coding
 - [Adaptive AI](https://adaptive.ai/) - Build AI-powered tools that think and work together
 - [Base44](https://base44.com/) - Build Apps with AI in Minutes
+- [Lovable](https://lovable.dev/) - Create apps and websites by chatting with AI
 
 ---
 
