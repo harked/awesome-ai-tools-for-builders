@@ -42,6 +42,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Base44](https://base44.com/) - Build Apps with AI in Minutes
 - [Lovable](https://lovable.dev/) - Create apps and websites by chatting with AI
 - [Replit](https://replit.com/) - Build apps and sites with AI
+- [Bolt](https://bolt.new/) - Create stunning apps & websites by chatting with AI
 
 ---
 
