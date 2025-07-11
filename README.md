@@ -44,6 +44,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Replit](https://replit.com/) - Build apps and sites with AI
 - [Bolt](https://bolt.new/) - Create stunning apps & websites by chatting with AI
 - [Anima](https://www.animaapp.com/) - Vibe coding for designers (designs into code)
+- [v0](https://v0.dev/) - turns your ideas into real web apps
 
 ---
 
