@@ -43,6 +43,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Lovable](https://lovable.dev/) - Create apps and websites by chatting with AI
 - [Replit](https://replit.com/) - Build apps and sites with AI
 - [Bolt](https://bolt.new/) - Create stunning apps & websites by chatting with AI
+- [Anima](https://www.animaapp.com/) - Vibe coding for designers (designs into code)
 
 ---
 
