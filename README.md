@@ -47,7 +47,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [v0](https://v0.dev/) - turns your ideas into real web apps
 - [Firebase Studio](https://firebase.studio/) - full-stack AI workspace
 - [Google AI Studio](https://aistudio.google.com/) - fastest way to start building with Gemini
-
+- [Rosebud AI](https://rosebud.ai/) - AI Game Generator
 
 ---
 
