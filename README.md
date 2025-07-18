@@ -45,6 +45,8 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Bolt](https://bolt.new/) - Create stunning apps & websites by chatting with AI
 - [Anima](https://www.animaapp.com/) - Vibe coding for designers (designs into code)
 - [v0](https://v0.dev/) - turns your ideas into real web apps
+- [Firebase Studio](https://firebase.studio/) - full-stack AI workspace
+
 
 ---
 
