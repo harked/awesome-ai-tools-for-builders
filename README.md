@@ -49,6 +49,8 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Google AI Studio](https://aistudio.google.com/) - fastest way to start building with Gemini
 - [Rosebud AI](https://rosebud.ai/) - AI Game Generator
 - [Leap](https://leap.new/) - Build full stack app with AI
+- [Tempo](https://tempo.new/) - Build UI's 10x faster with AI
+- [Stitch](https://stitch.withgoogle.com/) - Generate UIs for mobile and web applications
 
 
 
