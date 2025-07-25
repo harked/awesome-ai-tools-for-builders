@@ -27,7 +27,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [🎨 Images & Video](#-images--video)
 - [🔍 Research & Knowledge](#-research--knowledge)
 - [🧩 No-Code & Automation](#-no-code--automation)
-- [🛠 Dev Tools & SDKs](#-dev-tools--sdks)
+- [🛠 AI Agent, Dev Tools & SDKs](#-dev-tools--sdks)
 - [📈 Marketing & Growth](#-marketing--growth)
 - [📚 Learning & Resources](#-learning--resources)
 - [💬 Community & Inspiration](#-community--inspiration)
@@ -48,6 +48,9 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Firebase Studio](https://firebase.studio/) - full-stack AI workspace
 - [Google AI Studio](https://aistudio.google.com/) - fastest way to start building with Gemini
 - [Rosebud AI](https://rosebud.ai/) - AI Game Generator
+- [Leap](https://leap.new/) - Build full stack app with AI
+
+
 
 ---
 
@@ -91,11 +94,13 @@ This list helps you discover the best tools & resources without wasting hours se
 
 ---
 
-## 🛠 Dev Tools & SDKs
+## 🛠 AI Agent, Dev Tools & SDKs
 
 - [LangChain](https://python.langchain.com/) - Build context-aware LLM apps
 - [LlamaIndex](https://www.llamaindex.ai/) - Connect LLMs to your data
 - [Pinecone](https://www.pinecone.io/) - Vector database for semantic search
+- [HumanLayer](https://www.humanlayer.dev/) - Vector database for semantic search
+- [Bizway.io](https://www.bizway.io/) - Automate & grow your business with a team of AI agents.
 
 ---
 
