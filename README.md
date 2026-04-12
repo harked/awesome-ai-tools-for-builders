@@ -117,6 +117,8 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Durable](https://durable.co/) - Build entire websites with AI
 
 ---
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin for SEO & Google Ads. Meta tags, schema markup, keyword bids, CMS pushes.
+
 
 ## 📚 Learning & Resources
 
