@@ -90,6 +90,7 @@ This list helps you discover the best tools & resources without wasting hours se
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine
 - [Elicit](https://elicit.com/) - Research assistant for academic papers & insights
+- [MindMap AI](https://mindmapai.app/research-to-mindmap) - Visual AI tool for organizing ideas, structuring research, and turning information into mind maps for product planning and decision-making
 
 ---
 
