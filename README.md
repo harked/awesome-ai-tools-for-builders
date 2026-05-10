@@ -113,6 +113,7 @@ This list helps you discover the best tools & resources without wasting hours se
 ## 📈 Marketing & Growth
 
 - [GrowthBar](https://www.growthbarseo.com/) - AI SEO & content planning
+- [NotFair](https://notfair.co) - Hosted Google Ads MCP server for Claude and AI agents — diagnose, recommend, and execute campaign changes
 - [Ocoya](https://www.ocoya.com/) - AI social media scheduling & captions
 - [Durable](https://durable.co/) - Build entire websites with AI
 
