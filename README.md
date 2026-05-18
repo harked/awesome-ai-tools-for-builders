@@ -83,6 +83,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Midjourney](https://www.midjourney.com/) - AI-generated art & illustrations
 - [Runway](https://runwayml.com/) - Video editing & gen AI tools
 - [Stable Diffusion](https://stability.ai/) - Open-source image generation
+- [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - Browser-based AI background remover (ONNX/WASM, runs locally, no upload, no signup); part of free open-source TinyTools suite for indie makers
 
 ---
 
