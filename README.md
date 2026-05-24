@@ -80,6 +80,7 @@ This list helps you discover the best tools & resources without wasting hours se
 
 ## 🎨 Images & Video
 
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator for outdoor space concepts
 - [Midjourney](https://www.midjourney.com/) - AI-generated art & illustrations
 - [Runway](https://runwayml.com/) - Video editing & gen AI tools
 - [Stable Diffusion](https://stability.ai/) - Open-source image generation
