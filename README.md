@@ -113,6 +113,7 @@ This list helps you discover the best tools & resources without wasting hours se
 ## 📈 Marketing & Growth
 
 - [GrowthBar](https://www.growthbarseo.com/) - AI SEO & content planning
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads; connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 - [Ocoya](https://www.ocoya.com/) - AI social media scheduling & captions
 - [Durable](https://durable.co/) - Build entire websites with AI
 
