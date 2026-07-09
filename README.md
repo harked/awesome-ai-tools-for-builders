@@ -131,6 +131,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Indie Hackers](https://www.indiehackers.com/) - Learn from fellow builders
 - [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/) - Startup ideas & stories
 - [Twitter #BuildInPublic](https://twitter.com/search?q=%23buildinpublic) - See what others are shipping
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
