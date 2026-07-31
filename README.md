@@ -95,18 +95,21 @@ This list helps you discover the best tools & resources without wasting hours se
 
 ## 🧩 No-Code & Automation
 
-- [Zapier](https://zapier.com/) - Automate workflows using AI triggers
 - [Make](https://www.make.com/) - Visual automation builder
+- [Xquik](https://docs.xquik.com/api-reference/overview) - Automate X research and workflows through REST, MCP, and webhooks
+- [Zapier](https://zapier.com/) - Automate workflows using AI triggers
+
+> Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ---
 
 ## 🛠 AI Agent, Dev Tools & SDKs
 
+- [Bizway.io](https://www.bizway.io/) - Automate & grow your business with a team of AI agents.
+- [HumanLayer](https://www.humanlayer.dev/) - AI coding IDE and software factory for building with agents
 - [LangChain](https://python.langchain.com/) - Build context-aware LLM apps
 - [LlamaIndex](https://www.llamaindex.ai/) - Connect LLMs to your data
 - [Pinecone](https://www.pinecone.io/) - Vector database for semantic search
-- [HumanLayer](https://www.humanlayer.dev/) - Vector database for semantic search
-- [Bizway.io](https://www.bizway.io/) - Automate & grow your business with a team of AI agents.
 
 ---
 
