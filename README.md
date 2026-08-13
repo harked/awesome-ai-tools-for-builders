@@ -66,6 +66,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Cohere](https://cohere.com/) - Language models for classification, generation
 - [Hugging Face](https://huggingface.co/) - Huge library of ML models & datasets
 - [Replicate](https://replicate.com/) - Run open-source ML models via API
+- [RunAPI](https://runapi.ai/) - Unified API platform for image, video, audio, music, and model API jobs
 - [Vercel AI SDK](https://vercel.com/ai) - Build AI-powered web apps effortlessly
 
 ---
