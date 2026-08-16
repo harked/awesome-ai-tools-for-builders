@@ -83,6 +83,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [Midjourney](https://www.midjourney.com/) - AI-generated art & illustrations
 - [Runway](https://runwayml.com/) - Video editing & gen AI tools
 - [Stable Diffusion](https://stability.ai/) - Open-source image generation
+- [videos.social](https://videos.social/?utm_source=harked-awesome-ai-tools-for-builders&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos
 
 ---
 
