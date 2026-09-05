@@ -102,11 +102,12 @@ This list helps you discover the best tools & resources without wasting hours se
 
 ## 🛠 AI Agent, Dev Tools & SDKs
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available natural-language web and mobile application testing with CLI, MCP, and reusable execution memory
+- [Bizway.io](https://www.bizway.io/) - Automate & grow your business with a team of AI agents.
+- [HumanLayer](https://www.humanlayer.dev/) - Vector database for semantic search
 - [LangChain](https://python.langchain.com/) - Build context-aware LLM apps
 - [LlamaIndex](https://www.llamaindex.ai/) - Connect LLMs to your data
 - [Pinecone](https://www.pinecone.io/) - Vector database for semantic search
-- [HumanLayer](https://www.humanlayer.dev/) - Vector database for semantic search
-- [Bizway.io](https://www.bizway.io/) - Automate & grow your business with a team of AI agents.
 
 ---
 
