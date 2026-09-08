@@ -80,6 +80,7 @@ This list helps you discover the best tools & resources without wasting hours se
 
 ## 🎨 Images & Video
 
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Preview live webcam face, outfit, and style changes using authorized references.
 - [Midjourney](https://www.midjourney.com/) - AI-generated art & illustrations
 - [Runway](https://runwayml.com/) - Video editing & gen AI tools
 - [Stable Diffusion](https://stability.ai/) - Open-source image generation
