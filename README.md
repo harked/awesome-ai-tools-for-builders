@@ -25,6 +25,7 @@ This list helps you discover the best tools & resources without wasting hours se
 - [🤖 AI APIs & Platforms](#-ai-apis--platforms)
 - [✍️ Content & Copywriting](#-content--copywriting)
 - [🎨 Images & Video](#-images--video)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap / try-on / restyle on webcam video.
 - [🔍 Research & Knowledge](#-research--knowledge)
 - [🧩 No-Code & Automation](#-no-code--automation)
 - [🛠 AI Agent, Dev Tools & SDKs](#-dev-tools--sdks)
